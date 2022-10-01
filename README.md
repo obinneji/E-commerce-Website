@@ -48,6 +48,7 @@ Users should be able to:
 - [React-router](https://reactrouter.com/en/main) - for Routes
 - [Redux](https://redux.js.org/) - for State management
 - [Bootstrap5](https://getbootrap5.com/) - For styles
+- [Fontawesome](https://fontawesome.com/) - icons
 
 
 ### Continued development
