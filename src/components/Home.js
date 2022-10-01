@@ -7,7 +7,7 @@ const Home = () => {
     <div id="carouselExampleFade" class="carousel slide carousel-fade" data-bs-ride="carousel">
   <div class="carousel-inner">
     <div class="carousel-item active">
-      <img src="..\images/first-img.gif" class="d-block w-100 " alt="..." height="500px"/>
+      <img src="..\images\first-img.gif" class="d-block w-100 " alt="..." height="500px"/>
     </div>
     <div class="carousel-item">
       <img src="..\Images\Nestle_slider_FS.jpg" class="d-block w-100" alt="..."height="500px"/>
