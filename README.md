@@ -10,7 +10,6 @@ This is an e-commerce website inspired by jumia.com.ng. built with react.js, red
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
   - [Continued development](#continued-development)
   - [Useful resources](#useful-resources)
 - [Author](#author)
@@ -31,21 +30,31 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](./Screenshot(28).png)
 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Github](https://github.com/obinneji/E-commerce-Website)
+- Live Site URL: [Fortmart](https://fortmart.vercel.app)
 
 ## My process
+
+- Created the react app 
+- Created various components  for the app
+- Used React-Router to routes between components
+- used useState and props to pass data from mock database.
+- Used .map and .filter method in  fetching data from mock database
+- Used redux to create reducers, actions and create store.
+- Used useParams from react-router hook to pass paramater to prooduct detail component
+- used the usedispatch, useSelector from redux liberies
+
 
 ### Built with
 
 - Javascript
 - [React](https://reactjs.org/) - JS library
-- [React-router](https://reactrouter.com/en/main) - for Routes
+- [React-router](https://reactrouter.com/en/main) - for Routing
 - [Redux](https://redux.js.org/) - for State management
 - [Bootstrap5](https://getbootrap5.com/) - For styles
 - [Fontawesome](https://fontawesome.com/) - icons
@@ -64,11 +73,9 @@ The checkout page has not yet been developed will work on that later.
 ## Author
 
 - Website - [obinneji chibuzor](https://www.obinnejichibuzor.vercel.app)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Linkedin- [Obinneji Chibuzor](https://www.linkedin.com/in/obinneji/)
 - Twitter - [@francisobinneji](https://www.twitter.com/francisobinneji)
 
 
-## Acknowledgments
 
-This is where you can give a hat tip to anyone who helped you out on this project. Perhaps you worked in a team or got some inspiration from someone else's solution. This is the perfect place to give them some credit.
 
